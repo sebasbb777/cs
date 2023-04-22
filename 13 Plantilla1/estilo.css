@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    paddimg:0px;
+  }
+  body{
+    background: linear-gradient(plum,cadetblue);
+    -webkit-background-clip:body;
+    color: transparent;
+  }
